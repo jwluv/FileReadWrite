@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FileReadWrite</string>
+    <string name="editTextInput">파일의 내용을 입력하세요</string>
+    <string name="editTextFileName">파일 이름</string>
+</resources>
